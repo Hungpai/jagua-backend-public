@@ -13,7 +13,7 @@ Deployed on AWS with EC2 and RDS:
 ## Technologies
 - Java 17
 - Spring Boot
-- Spring Data JPA
+- Spring Data JPA / Hibernate
 - Spring Web
 - JUnit
 - PostgreSQL
